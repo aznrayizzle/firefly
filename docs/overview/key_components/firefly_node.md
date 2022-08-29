@@ -1,8 +1,9 @@
 ---
 layout: default
-title: The FireFly node
-parent: pages.understanding_firefly
-nav_order: 3
+title: The Firefly Node
+parent: The Key Components
+grand_parent: pages.understanding_firefly
+nav_order: 12
 ---
 
 # The FireFly node
@@ -18,7 +19,7 @@ nav_order: 3
 
 ## FireFly node runtimes
 
-A FireFly node is a collection of multiple microservice runtimes with a single unified HTTPS/Websocket API (exposed by the Core).
+A FireFly node is a collection of multiple microservice runtimes with a single unified HTTPS/Websocket API (exposed by the Core)..
 
 ![The FireFly node](../images/firefly_node.png "The FireFly node")
 
