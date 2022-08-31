@@ -3516,16 +3516,16 @@
     "relUrl": "/overview/firefly_modes/gateway/public_connector.html"
   },"586": {
     "doc": "Public vs. Private chains",
-    "title": "Public and Permissioned Blockchain",
+    "title": "Public vs. Private Chains",
     "content": ". ",
-    "url": "/firefly/head/overview/firefly_modes/gateway/public_private_chains.html#public-and-permissioned-blockchain",
-    "relUrl": "/overview/firefly_modes/gateway/public_private_chains.html#public-and-permissioned-blockchain"
+    "url": "/firefly/head/overview/firefly_modes/gateway/public_private_chains.html#public-vs-private-chains",
+    "relUrl": "/overview/firefly_modes/gateway/public_private_chains.html#public-vs-private-chains"
   },"587": {
     "doc": "Public vs. Private chains",
     "title": "Public and Permissioned Blockchain",
     "content": "A separate choice to the technology for your blockchain, is what combination of blockchain ecosystems you will integrate with. There are a huge variety of options, and increasingly you might find yourself integrating with multiple ecosystems in your solutions. A rough (and incomplete) high level classification of the blockchains available is as follows: . | Layer 1 public blockchains . | This is where most token ecosystems are rooted and some of the popular ones include Ethereum, Avalanche, BNB Chain, etc.) | . | Layer 2 public scaling solutions backed by a Layer 1 blockchain . | These are increasing where transaction execution takes place that needs to be reflected eventually back to a Layer 1 blockchain (due to cost/congestion in the Layer 1 chains). An example of a Layer 2 solution would be Arbitrum which uses rollups to connect back to Ethereum. | . | Permissioned side-chains . | Historically this has been where the majority of production adoption of enterprise blockchain has focussed, due to the predictable cost, performance, and ability to manage the validator set and boundary API security alongside a business network governance policy | These might have their state check-pointed/rolled-up to a Layer 2 or Layer 1 chain | . | . The lines are blurring between these categorizations as the technologies and ecosystems evolve. ",
-    "url": "/firefly/head/overview/firefly_modes/gateway/public_private_chains.html#public-and-permissioned-blockchain-1",
-    "relUrl": "/overview/firefly_modes/gateway/public_private_chains.html#public-and-permissioned-blockchain-1"
+    "url": "/firefly/head/overview/firefly_modes/gateway/public_private_chains.html#public-and-permissioned-blockchain",
+    "relUrl": "/overview/firefly_modes/gateway/public_private_chains.html#public-and-permissioned-blockchain"
   },"588": {
     "doc": "Public vs. Private chains",
     "title": "Public blockchain variations",
@@ -3847,7 +3847,7 @@
   },"641": {
     "doc": "Introduction to Supernodes",
     "title": "What is a Supernode",
-    "content": "A FireFly Supernode is designed to be an organization’s Web 3 gateway to all the blockchain ecosystems that they participate in - multiple blockchains, multiple token economis, or multiple business networks. What makes a SuperNode “super” compared to a regular node is that it includes a blockchain developers toolkit under the hood. This includes a security layer, orchestration engine, token connectors, API identity management, and much more. Over the last decade of enterprise blockchain projects, architects and developers have realized that they need much more than a blockchain node for their projects to be successful. The development stack needed for an enterprise grade Web3 application, is just as sophisticated as the stack required for the Web 2.0 applications that came before. A raw blockchain node is simply not enough. ",
+    "content": "A FireFly Supernode is designed to be an organization’s connection to Web 3 and to all the blockchain ecosystems that they participate in - multiple blockchains, multiple token economis, or multiple business networks. What makes a SuperNode “super” compared to a regular node is that it includes a blockchain developers toolkit under the hood. This includes a security layer, orchestration engine, token connectors, API identity management, and much more. Over the last decade of enterprise blockchain projects, architects, and developers have realized that they need much more than a blockchain node for their projects to be successful. The development stack needed for an enterprise grade Web3 application is just as sophisticated as the stack required for the Web 2.0 applications that came before. A raw blockchain node is simply not enough. ",
     "url": "/firefly/head/overview/supernode_concept.html#what-is-a-supernode",
     "relUrl": "/overview/supernode_concept.html#what-is-a-supernode"
   },"642": {
@@ -3883,7 +3883,7 @@
   },"647": {
     "doc": "The Key Components",
     "title": "The Key Components",
-    "content": ". Hyperledger FireFly has 7 key parts that . ",
+    "content": ". This section will introduce in detail the 5 key layers to a FireFly Supernode. ",
     "url": "/firefly/head/overview/the_key_components.html",
     "relUrl": "/overview/the_key_components.html"
   },"648": {
